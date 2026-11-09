@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🚀 Bem-vindo(a) ao meu laboratório de prática!
 
-<!--
-**emistutz86/emistutz86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Que bom ter você por aqui. 👋
 
-Here are some ideas to get you started:
+Este espaço é um projeto novo e ainda está em desenvolvimento (*Work in Progress*). Criei este repositório para praticar programação, explorar tecnologias e aprofundar meus conhecimentos em desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 A visão de QA neste projeto
+
+Como profissional de **Quality Assurance (QA) Pleno**, acredito que entender como um software é construído ajuda a promover qualidade desde as primeiras etapas do desenvolvimento.
+
+Este projeto também é uma oportunidade para fortalecer minha mentalidade de **Shift-Left Testing**: considerar a qualidade desde o início, em vez de deixá-la apenas para o final.
+
+Ao desenvolver uma API em **Node.js**, quero ampliar minha visão sobre:
+
+- 🏗️ Arquitetura de software e boas práticas, como *Clean Code*;
+- 🐛 Identificação de cenários de erro e prevenção de problemas;
+- 🧪 Testabilidade da aplicação desde a sua concepção.
+
+## 🚧 Status
+
+Este projeto está em construção. Sinta-se à vontade para acompanhar minha jornada de aprendizado!
